@@ -9,7 +9,8 @@ import java.util.Scanner;
  * Not a perfect program.  Spaces are not decrypted correctly.
  * Again, this is just a very simple example of a one time pad that made to better understand how it would work.
  * Gives a rough idea on how it would function.  Do not take as a perfect example.
- * @author aguzm
+ * @author Alejandro Guzman
+ * Software Engineering major - UTD
  */
 public class OneTimePad 
 {
